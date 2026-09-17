@@ -159,7 +159,7 @@ Analysis of UK COVID-19 vaccination and public-health data, examining vaccinatio
 * Filters and drill-down analysis
 * Public-health data analysis
 
-🔗 **[View Tableau Dashboard](YOUR_TABLEAU_PUBLIC_LINK)**
+🔗 **[View Tableau Dashboard](https://public.tableau.com/app/profile/avelino.monteiro/viz/UKCOVID-19Analysis/Dashboard12)**
 
 ---
 
