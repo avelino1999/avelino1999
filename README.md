@@ -252,6 +252,8 @@ My aim is to build projects that demonstrate not only the tools I can use, but a
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/avelinomonteiro1999/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge\&logo=gmail\&logoColor=white)](mailto:avelinomonteiro02@gmail.com)
 
+[![](https://komarev.com/ghpvc/?username=avelino1999&icon=0&color=0)](https://visitcount.itsvg.in)
+
 ---
 
 ### Thanks for visiting my portfolio!
